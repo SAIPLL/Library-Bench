@@ -1,0 +1,1 @@
+python run_ollama.py --model='gemma2:2b' --idx=5

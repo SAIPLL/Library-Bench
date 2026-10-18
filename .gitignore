@@ -1,0 +1,33 @@
+# OS / editor / python noise
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.egg-info/
+
+# BigCodeBench virtualenv (3.4G)
+bigcodebench/bigcode/
+
+# Nested git repo (72M); remove this line if you move its .git aside and want the files tracked
+bigcodebench/geopandas/
+
+# Empty folder
+bigcodebench/proj/
+
+# Large generated results
+bigcodebench/results/
+bigcodebench/results-evaluate/
+bigcodebench/resultsb/
+bigcodebench/resultsb-sanitized/
+bigcodebench/repair/
+DS-1000/results/
+
+# Optional: model answers / benchmark data. Uncomment to keep them out of git.
+DS-1000/data/
+odex/data/
+bigcodebench/samples/
+
+DS-1000/test_steer.py
+DS-1000/remove_assertion.ipynb
+odex/remove_assert_test.ipynb
+DS-1000/unify_grammar_ds.ipynb

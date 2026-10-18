@@ -1,0 +1,4027 @@
+{
+    "itertools,random": {
+        "problems_id": [
+            "BigCodeBench/0",
+            "BigCodeBench/609",
+            "BigCodeBench/694",
+            "BigCodeBench/868"
+        ],
+        "id": 0
+    },
+    "collections,random,string": {
+        "problems_id": [
+            "BigCodeBench/1",
+            "BigCodeBench/98",
+            "BigCodeBench/394",
+            "BigCodeBench/767",
+            "BigCodeBench/855",
+            "BigCodeBench/858",
+            "BigCodeBench/862"
+        ],
+        "id": 1
+    },
+    "random,statistics": {
+        "problems_id": [
+            "BigCodeBench/2",
+            "BigCodeBench/1116"
+        ],
+        "id": 2
+    },
+    "numpy,random": {
+        "problems_id": [
+            "BigCodeBench/3",
+            "BigCodeBench/122",
+            "BigCodeBench/253",
+            "BigCodeBench/554",
+            "BigCodeBench/793",
+            "BigCodeBench/899"
+        ],
+        "id": 3
+    },
+    "collections,itertools": {
+        "problems_id": [
+            "BigCodeBench/4",
+            "BigCodeBench/297",
+            "BigCodeBench/685",
+            "BigCodeBench/912"
+        ],
+        "id": 4
+    },
+    "math,random": {
+        "problems_id": [
+            "BigCodeBench/5",
+            "BigCodeBench/831"
+        ],
+        "id": 5
+    },
+    "os,re": {
+        "problems_id": [
+            "BigCodeBench/6",
+            "BigCodeBench/713",
+            "BigCodeBench/796",
+            "BigCodeBench/907",
+            "BigCodeBench/1041"
+        ],
+        "id": 6
+    },
+    "collections,csv,operator": {
+        "problems_id": [
+            "BigCodeBench/7",
+            "BigCodeBench/96"
+        ],
+        "id": 7
+    },
+    "collections,itertools,random": {
+        "problems_id": [
+            "BigCodeBench/8",
+            "BigCodeBench/22",
+            "BigCodeBench/305",
+            "BigCodeBench/384",
+            "BigCodeBench/791",
+            "BigCodeBench/896"
+        ],
+        "id": 8
+    },
+    "matplotlib,pandas,seaborn": {
+        "problems_id": [
+            "BigCodeBench/9",
+            "BigCodeBench/57",
+            "BigCodeBench/64",
+            "BigCodeBench/105",
+            "BigCodeBench/230",
+            "BigCodeBench/302",
+            "BigCodeBench/341",
+            "BigCodeBench/916",
+            "BigCodeBench/1036"
+        ],
+        "id": 9
+    },
+    "itertools,numpy,random,statistics": {
+        "problems_id": [
+            "BigCodeBench/10"
+        ],
+        "id": 10
+    },
+    "itertools,numpy,random": {
+        "problems_id": [
+            "BigCodeBench/11"
+        ],
+        "id": 11
+    },
+    "datetime,json,os,subprocess": {
+        "problems_id": [
+            "BigCodeBench/12"
+        ],
+        "id": 12
+    },
+    "ftplib,os,subprocess": {
+        "problems_id": [
+            "BigCodeBench/13"
+        ],
+        "id": 13
+    },
+    "configparser,os,shutil": {
+        "problems_id": [
+            "BigCodeBench/14"
+        ],
+        "id": 14
+    },
+    "csv,os,subprocess": {
+        "problems_id": [
+            "BigCodeBench/15"
+        ],
+        "id": 15
+    },
+    "glob,os,subprocess": {
+        "problems_id": [
+            "BigCodeBench/16",
+            "BigCodeBench/785"
+        ],
+        "id": 16
+    },
+    "psutil,subprocess,time": {
+        "problems_id": [
+            "BigCodeBench/17"
+        ],
+        "id": 17
+    },
+    "csv,glob,os,random,subprocess": {
+        "problems_id": [
+            "BigCodeBench/18"
+        ],
+        "id": 18
+    },
+    "glob,os,zipfile": {
+        "problems_id": [
+            "BigCodeBench/19"
+        ],
+        "id": 19
+    },
+    "ast,pandas,seaborn": {
+        "problems_id": [
+            "BigCodeBench/20"
+        ],
+        "id": 20
+    },
+    "platform,psutil": {
+        "problems_id": [
+            "BigCodeBench/21"
+        ],
+        "id": 21
+    },
+    "itertools,numpy": {
+        "problems_id": [
+            "BigCodeBench/23",
+            "BigCodeBench/275",
+            "BigCodeBench/735",
+            "BigCodeBench/787",
+            "BigCodeBench/802",
+            "BigCodeBench/871",
+            "BigCodeBench/872",
+            "BigCodeBench/1138"
+        ],
+        "id": 22
+    },
+    "base64,hashlib,os": {
+        "problems_id": [
+            "BigCodeBench/24",
+            "BigCodeBench/547",
+            "BigCodeBench/1132"
+        ],
+        "id": 23
+    },
+    "base64,json,zlib": {
+        "problems_id": [
+            "BigCodeBench/25"
+        ],
+        "id": 24
+    },
+    "base64,cryptography": {
+        "problems_id": [
+            "BigCodeBench/26"
+        ],
+        "id": 25
+    },
+    "base64,datetime,json": {
+        "problems_id": [
+            "BigCodeBench/27"
+        ],
+        "id": 26
+    },
+    "base64,json,requests": {
+        "problems_id": [
+            "BigCodeBench/28"
+        ],
+        "id": 27
+    },
+    "base64,numpy,sklearn": {
+        "problems_id": [
+            "BigCodeBench/29"
+        ],
+        "id": 28
+    },
+    "json,os,re": {
+        "problems_id": [
+            "BigCodeBench/30",
+            "BigCodeBench/329"
+        ],
+        "id": 29
+    },
+    "matplotlib,nltk,seaborn,string": {
+        "problems_id": [
+            "BigCodeBench/31"
+        ],
+        "id": 30
+    },
+    "bs4,requests": {
+        "problems_id": [
+            "BigCodeBench/32",
+            "BigCodeBench/1018"
+        ],
+        "id": 31
+    },
+    "functools,numpy": {
+        "problems_id": [
+            "BigCodeBench/33"
+        ],
+        "id": 32
+    },
+    "matplotlib,re,wordcloud": {
+        "problems_id": [
+            "BigCodeBench/34"
+        ],
+        "id": 33
+    },
+    "matplotlib,seaborn": {
+        "problems_id": [
+            "BigCodeBench/35",
+            "BigCodeBench/653"
+        ],
+        "id": 34
+    },
+    "matplotlib,numpy,scipy": {
+        "problems_id": [
+            "BigCodeBench/36",
+            "BigCodeBench/39",
+            "BigCodeBench/58",
+            "BigCodeBench/94",
+            "BigCodeBench/169",
+            "BigCodeBench/217",
+            "BigCodeBench/224",
+            "BigCodeBench/239",
+            "BigCodeBench/244",
+            "BigCodeBench/246",
+            "BigCodeBench/267",
+            "BigCodeBench/276",
+            "BigCodeBench/280",
+            "BigCodeBench/357",
+            "BigCodeBench/369",
+            "BigCodeBench/382",
+            "BigCodeBench/393",
+            "BigCodeBench/396",
+            "BigCodeBench/445",
+            "BigCodeBench/448",
+            "BigCodeBench/455",
+            "BigCodeBench/474",
+            "BigCodeBench/574",
+            "BigCodeBench/582",
+            "BigCodeBench/652",
+            "BigCodeBench/654",
+            "BigCodeBench/659",
+            "BigCodeBench/915",
+            "BigCodeBench/967",
+            "BigCodeBench/982",
+            "BigCodeBench/1026",
+            "BigCodeBench/1061",
+            "BigCodeBench/1087"
+        ],
+        "id": 35
+    },
+    "matplotlib,seaborn,sklearn": {
+        "problems_id": [
+            "BigCodeBench/37",
+            "BigCodeBench/47"
+        ],
+        "id": 36
+    },
+    "matplotlib,pandas,sklearn": {
+        "problems_id": [
+            "BigCodeBench/38",
+            "BigCodeBench/42",
+            "BigCodeBench/92",
+            "BigCodeBench/106",
+            "BigCodeBench/107",
+            "BigCodeBench/133",
+            "BigCodeBench/136",
+            "BigCodeBench/156",
+            "BigCodeBench/298",
+            "BigCodeBench/304",
+            "BigCodeBench/427",
+            "BigCodeBench/449",
+            "BigCodeBench/1025",
+            "BigCodeBench/1037",
+            "BigCodeBench/1052",
+            "BigCodeBench/1053",
+            "BigCodeBench/1083"
+        ],
+        "id": 37
+    },
+    "pandas,scipy,seaborn": {
+        "problems_id": [
+            "BigCodeBench/40",
+            "BigCodeBench/160"
+        ],
+        "id": 38
+    },
+    "matplotlib,pandas,scipy": {
+        "problems_id": [
+            "BigCodeBench/41",
+            "BigCodeBench/234",
+            "BigCodeBench/300",
+            "BigCodeBench/559"
+        ],
+        "id": 39
+    },
+    "numpy,seaborn": {
+        "problems_id": [
+            "BigCodeBench/43",
+            "BigCodeBench/439",
+            "BigCodeBench/983",
+            "BigCodeBench/1064"
+        ],
+        "id": 40
+    },
+    "matplotlib,sklearn": {
+        "problems_id": [
+            "BigCodeBench/44",
+            "BigCodeBench/51",
+            "BigCodeBench/238",
+            "BigCodeBench/375",
+            "BigCodeBench/430",
+            "BigCodeBench/446",
+            "BigCodeBench/472",
+            "BigCodeBench/984",
+            "BigCodeBench/1063"
+        ],
+        "id": 41
+    },
+    "matplotlib,numpy,pandas,seaborn,sklearn": {
+        "problems_id": [
+            "BigCodeBench/45",
+            "BigCodeBench/135"
+        ],
+        "id": 42
+    },
+    "matplotlib,scipy": {
+        "problems_id": [
+            "BigCodeBench/46",
+            "BigCodeBench/91",
+            "BigCodeBench/359",
+            "BigCodeBench/373",
+            "BigCodeBench/476",
+            "BigCodeBench/1065"
+        ],
+        "id": 43
+    },
+    "datetime,matplotlib,random,time": {
+        "problems_id": [
+            "BigCodeBench/48",
+            "BigCodeBench/596"
+        ],
+        "id": 44
+    },
+    "datetime,matplotlib,pandas": {
+        "problems_id": [
+            "BigCodeBench/49",
+            "BigCodeBench/560"
+        ],
+        "id": 45
+    },
+    "datetime,matplotlib,pandas,pytz": {
+        "problems_id": [
+            "BigCodeBench/50"
+        ],
+        "id": 46
+    },
+    "pandas,regex": {
+        "problems_id": [
+            "BigCodeBench/52",
+            "BigCodeBench/56"
+        ],
+        "id": 47
+    },
+    "matplotlib,pandas,regex,seaborn": {
+        "problems_id": [
+            "BigCodeBench/53"
+        ],
+        "id": 48
+    },
+    "pandas,regex,sklearn": {
+        "problems_id": [
+            "BigCodeBench/54"
+        ],
+        "id": 49
+    },
+    "pandas,re": {
+        "problems_id": [
+            "BigCodeBench/55",
+            "BigCodeBench/483",
+            "BigCodeBench/797",
+            "BigCodeBench/918",
+            "BigCodeBench/922",
+            "BigCodeBench/938",
+            "BigCodeBench/1049"
+        ],
+        "id": 50
+    },
+    "matplotlib,wikipedia,wordcloud": {
+        "problems_id": [
+            "BigCodeBench/59"
+        ],
+        "id": 51
+    },
+    "json,pandas": {
+        "problems_id": [
+            "BigCodeBench/60",
+            "BigCodeBench/411",
+            "BigCodeBench/681"
+        ],
+        "id": 52
+    },
+    "datetime,matplotlib,numpy": {
+        "problems_id": [
+            "BigCodeBench/61",
+            "BigCodeBench/496",
+            "BigCodeBench/1048",
+            "BigCodeBench/1075"
+        ],
+        "id": 53
+    },
+    "matplotlib,random,seaborn": {
+        "problems_id": [
+            "BigCodeBench/62",
+            "BigCodeBench/307"
+        ],
+        "id": 54
+    },
+    "matplotlib,pandas": {
+        "problems_id": [
+            "BigCodeBench/63",
+            "BigCodeBench/65",
+            "BigCodeBench/103",
+            "BigCodeBench/109",
+            "BigCodeBench/110",
+            "BigCodeBench/112",
+            "BigCodeBench/134",
+            "BigCodeBench/138",
+            "BigCodeBench/155",
+            "BigCodeBench/225",
+            "BigCodeBench/251",
+            "BigCodeBench/296",
+            "BigCodeBench/343",
+            "BigCodeBench/514",
+            "BigCodeBench/519",
+            "BigCodeBench/521",
+            "BigCodeBench/523",
+            "BigCodeBench/605",
+            "BigCodeBench/613",
+            "BigCodeBench/904",
+            "BigCodeBench/919",
+            "BigCodeBench/966",
+            "BigCodeBench/1001",
+            "BigCodeBench/1002",
+            "BigCodeBench/1011",
+            "BigCodeBench/1043",
+            "BigCodeBench/1060",
+            "BigCodeBench/1062",
+            "BigCodeBench/1069"
+        ],
+        "id": 55
+    },
+    "pandas,seaborn": {
+        "problems_id": [
+            "BigCodeBench/66",
+            "BigCodeBench/68",
+            "BigCodeBench/111",
+            "BigCodeBench/157",
+            "BigCodeBench/345",
+            "BigCodeBench/416",
+            "BigCodeBench/515",
+            "BigCodeBench/614",
+            "BigCodeBench/920",
+            "BigCodeBench/968",
+            "BigCodeBench/1081"
+        ],
+        "id": 56
+    },
+    "os,pandas,re": {
+        "problems_id": [
+            "BigCodeBench/67",
+            "BigCodeBench/487",
+            "BigCodeBench/641"
+        ],
+        "id": 57
+    },
+    "matplotlib,random": {
+        "problems_id": [
+            "BigCodeBench/69",
+            "BigCodeBench/233",
+            "BigCodeBench/312",
+            "BigCodeBench/366",
+            "BigCodeBench/405",
+            "BigCodeBench/611"
+        ],
+        "id": 58
+    },
+    "json,numpy,pandas": {
+        "problems_id": [
+            "BigCodeBench/70"
+        ],
+        "id": 59
+    },
+    "ast,numpy,pandas,seaborn": {
+        "problems_id": [
+            "BigCodeBench/71"
+        ],
+        "id": 60
+    },
+    "ast,numpy,os,pandas": {
+        "problems_id": [
+            "BigCodeBench/72"
+        ],
+        "id": 61
+    },
+    "ast,matplotlib,numpy,pandas,sqlite3": {
+        "problems_id": [
+            "BigCodeBench/73"
+        ],
+        "id": 62
+    },
+    "requests,socket": {
+        "problems_id": [
+            "BigCodeBench/74"
+        ],
+        "id": 63
+    },
+    "datetime,itertools,numpy,pandas,seaborn": {
+        "problems_id": [
+            "BigCodeBench/75"
+        ],
+        "id": 64
+    },
+    "django,random,string": {
+        "problems_id": [
+            "BigCodeBench/76"
+        ],
+        "id": 65
+    },
+    "base64,binascii,django,hashlib": {
+        "problems_id": [
+            "BigCodeBench/77"
+        ],
+        "id": 66
+    },
+    "csv,django,io": {
+        "problems_id": [
+            "BigCodeBench/78"
+        ],
+        "id": 67
+    },
+    "django,io,zipfile": {
+        "problems_id": [
+            "BigCodeBench/79"
+        ],
+        "id": 68
+    },
+    "flask,json,logging": {
+        "problems_id": [
+            "BigCodeBench/80"
+        ],
+        "id": 69
+    },
+    "flask,flask_restful,requests": {
+        "problems_id": [
+            "BigCodeBench/81"
+        ],
+        "id": 70
+    },
+    "flask,flask_login,flask_wtf,werkzeug,wtforms": {
+        "problems_id": [
+            "BigCodeBench/82"
+        ],
+        "id": 71
+    },
+    "flask,flask_mail": {
+        "problems_id": [
+            "BigCodeBench/83"
+        ],
+        "id": 72
+    },
+    "numpy,pandas": {
+        "problems_id": [
+            "BigCodeBench/84",
+            "BigCodeBench/86",
+            "BigCodeBench/121",
+            "BigCodeBench/149",
+            "BigCodeBench/150",
+            "BigCodeBench/163",
+            "BigCodeBench/173",
+            "BigCodeBench/174",
+            "BigCodeBench/228",
+            "BigCodeBench/379",
+            "BigCodeBench/386",
+            "BigCodeBench/414",
+            "BigCodeBench/457",
+            "BigCodeBench/463",
+            "BigCodeBench/468",
+            "BigCodeBench/495",
+            "BigCodeBench/507",
+            "BigCodeBench/512",
+            "BigCodeBench/573",
+            "BigCodeBench/600",
+            "BigCodeBench/602",
+            "BigCodeBench/603",
+            "BigCodeBench/620",
+            "BigCodeBench/638",
+            "BigCodeBench/684",
+            "BigCodeBench/700",
+            "BigCodeBench/815",
+            "BigCodeBench/835",
+            "BigCodeBench/840",
+            "BigCodeBench/864",
+            "BigCodeBench/900",
+            "BigCodeBench/925",
+            "BigCodeBench/949",
+            "BigCodeBench/975",
+            "BigCodeBench/1029",
+            "BigCodeBench/1034",
+            "BigCodeBench/1072"
+        ],
+        "id": 73
+    },
+    "datetime,numpy,pandas": {
+        "problems_id": [
+            "BigCodeBench/85",
+            "BigCodeBench/88",
+            "BigCodeBench/486",
+            "BigCodeBench/488",
+            "BigCodeBench/503",
+            "BigCodeBench/754"
+        ],
+        "id": 74
+    },
+    "pandas,random": {
+        "problems_id": [
+            "BigCodeBench/87",
+            "BigCodeBench/95",
+            "BigCodeBench/240",
+            "BigCodeBench/243",
+            "BigCodeBench/316",
+            "BigCodeBench/349",
+            "BigCodeBench/351",
+            "BigCodeBench/353",
+            "BigCodeBench/435",
+            "BigCodeBench/462",
+            "BigCodeBench/576",
+            "BigCodeBench/615",
+            "BigCodeBench/676",
+            "BigCodeBench/799",
+            "BigCodeBench/805",
+            "BigCodeBench/811",
+            "BigCodeBench/875",
+            "BigCodeBench/881",
+            "BigCodeBench/1070"
+        ],
+        "id": 75
+    },
+    "matplotlib,numpy,scipy,sklearn": {
+        "problems_id": [
+            "BigCodeBench/89",
+            "BigCodeBench/269"
+        ],
+        "id": 76
+    },
+    "math,numpy": {
+        "problems_id": [
+            "BigCodeBench/90",
+            "BigCodeBench/257",
+            "BigCodeBench/737",
+            "BigCodeBench/863"
+        ],
+        "id": 77
+    },
+    "matplotlib,numpy,pandas,sklearn": {
+        "problems_id": [
+            "BigCodeBench/93",
+            "BigCodeBench/558",
+            "BigCodeBench/914",
+            "BigCodeBench/1035"
+        ],
+        "id": 78
+    },
+    "functools,itertools,math": {
+        "problems_id": [
+            "BigCodeBench/97",
+            "BigCodeBench/854"
+        ],
+        "id": 79
+    },
+    "matplotlib,pandas,seaborn,sklearn": {
+        "problems_id": [
+            "BigCodeBench/99",
+            "BigCodeBench/102",
+            "BigCodeBench/456"
+        ],
+        "id": 80
+    },
+    "datetime,matplotlib,pandas,random": {
+        "problems_id": [
+            "BigCodeBench/100",
+            "BigCodeBench/591"
+        ],
+        "id": 81
+    },
+    "matplotlib,numpy,pandas,seaborn": {
+        "problems_id": [
+            "BigCodeBench/101",
+            "BigCodeBench/588",
+            "BigCodeBench/640"
+        ],
+        "id": 82
+    },
+    "itertools,matplotlib,pandas": {
+        "problems_id": [
+            "BigCodeBench/104"
+        ],
+        "id": 83
+    },
+    "matplotlib,pandas,statsmodels": {
+        "problems_id": [
+            "BigCodeBench/108"
+        ],
+        "id": 84
+    },
+    "collections,json,random": {
+        "problems_id": [
+            "BigCodeBench/113",
+            "BigCodeBench/365",
+            "BigCodeBench/1117"
+        ],
+        "id": 85
+    },
+    "numpy,sklearn": {
+        "problems_id": [
+            "BigCodeBench/114",
+            "BigCodeBench/452",
+            "BigCodeBench/686",
+            "BigCodeBench/695",
+            "BigCodeBench/697",
+            "BigCodeBench/749",
+            "BigCodeBench/770",
+            "BigCodeBench/772",
+            "BigCodeBench/774",
+            "BigCodeBench/789",
+            "BigCodeBench/809",
+            "BigCodeBench/866",
+            "BigCodeBench/948"
+        ],
+        "id": 86
+    },
+    "numpy,scipy": {
+        "problems_id": [
+            "BigCodeBench/115",
+            "BigCodeBench/221",
+            "BigCodeBench/663",
+            "BigCodeBench/687",
+            "BigCodeBench/689",
+            "BigCodeBench/705",
+            "BigCodeBench/736",
+            "BigCodeBench/738",
+            "BigCodeBench/807",
+            "BigCodeBench/929",
+            "BigCodeBench/950"
+        ],
+        "id": 87
+    },
+    "matplotlib,numpy": {
+        "problems_id": [
+            "BigCodeBench/116",
+            "BigCodeBench/119",
+            "BigCodeBench/142",
+            "BigCodeBench/143",
+            "BigCodeBench/194",
+            "BigCodeBench/255",
+            "BigCodeBench/259",
+            "BigCodeBench/261",
+            "BigCodeBench/337",
+            "BigCodeBench/387",
+            "BigCodeBench/392",
+            "BigCodeBench/441",
+            "BigCodeBench/444",
+            "BigCodeBench/467",
+            "BigCodeBench/470",
+            "BigCodeBench/894",
+            "BigCodeBench/895",
+            "BigCodeBench/910",
+            "BigCodeBench/970",
+            "BigCodeBench/1066",
+            "BigCodeBench/1078"
+        ],
+        "id": 88
+    },
+    "numpy,pandas,random": {
+        "problems_id": [
+            "BigCodeBench/117",
+            "BigCodeBench/152",
+            "BigCodeBench/193",
+            "BigCodeBench/575",
+            "BigCodeBench/612",
+            "BigCodeBench/782",
+            "BigCodeBench/946",
+            "BigCodeBench/951"
+        ],
+        "id": 89
+    },
+    "os,shutil": {
+        "problems_id": [
+            "BigCodeBench/118",
+            "BigCodeBench/344",
+            "BigCodeBench/779",
+            "BigCodeBench/783",
+            "BigCodeBench/798",
+            "BigCodeBench/973"
+        ],
+        "id": 90
+    },
+    "datetime,pandas,random": {
+        "problems_id": [
+            "BigCodeBench/120",
+            "BigCodeBench/489",
+            "BigCodeBench/492",
+            "BigCodeBench/952",
+            "BigCodeBench/981"
+        ],
+        "id": 91
+    },
+    "glob,os,pandas": {
+        "problems_id": [
+            "BigCodeBench/123"
+        ],
+        "id": 92
+    },
+    "matplotlib,random,time": {
+        "problems_id": [
+            "BigCodeBench/124"
+        ],
+        "id": 93
+    },
+    "collections,itertools,json,random": {
+        "problems_id": [
+            "BigCodeBench/125"
+        ],
+        "id": 94
+    },
+    "numpy,pandas,random,statistics": {
+        "problems_id": [
+            "BigCodeBench/126"
+        ],
+        "id": 95
+    },
+    "glob,hashlib,os,shutil": {
+        "problems_id": [
+            "BigCodeBench/127"
+        ],
+        "id": 96
+    },
+    "math,matplotlib,numpy,random": {
+        "problems_id": [
+            "BigCodeBench/128",
+            "BigCodeBench/581"
+        ],
+        "id": 97
+    },
+    "bs4,pandas,requests": {
+        "problems_id": [
+            "BigCodeBench/129",
+            "BigCodeBench/994"
+        ],
+        "id": 98
+    },
+    "base64,binascii,hashlib,os": {
+        "problems_id": [
+            "BigCodeBench/130",
+            "BigCodeBench/131"
+        ],
+        "id": 99
+    },
+    "binascii,matplotlib,numpy,pandas": {
+        "problems_id": [
+            "BigCodeBench/132"
+        ],
+        "id": 100
+    },
+    "pandas,scipy": {
+        "problems_id": [
+            "BigCodeBench/137",
+            "BigCodeBench/518",
+            "BigCodeBench/606",
+            "BigCodeBench/884",
+            "BigCodeBench/1082"
+        ],
+        "id": 101
+    },
+    "matplotlib,numpy,pandas": {
+        "problems_id": [
+            "BigCodeBench/139",
+            "BigCodeBench/164",
+            "BigCodeBench/168",
+            "BigCodeBench/208",
+            "BigCodeBench/264",
+            "BigCodeBench/477",
+            "BigCodeBench/506",
+            "BigCodeBench/511",
+            "BigCodeBench/513",
+            "BigCodeBench/553",
+            "BigCodeBench/567",
+            "BigCodeBench/636",
+            "BigCodeBench/941",
+            "BigCodeBench/942",
+            "BigCodeBench/944",
+            "BigCodeBench/1023",
+            "BigCodeBench/1079"
+        ],
+        "id": 102
+    },
+    "pandas,sklearn": {
+        "problems_id": [
+            "BigCodeBench/140",
+            "BigCodeBench/148",
+            "BigCodeBench/151",
+            "BigCodeBench/153",
+            "BigCodeBench/218",
+            "BigCodeBench/223",
+            "BigCodeBench/236",
+            "BigCodeBench/294",
+            "BigCodeBench/364",
+            "BigCodeBench/371",
+            "BigCodeBench/420",
+            "BigCodeBench/422",
+            "BigCodeBench/688",
+            "BigCodeBench/690",
+            "BigCodeBench/691",
+            "BigCodeBench/693",
+            "BigCodeBench/698",
+            "BigCodeBench/699",
+            "BigCodeBench/701",
+            "BigCodeBench/702",
+            "BigCodeBench/703",
+            "BigCodeBench/706",
+            "BigCodeBench/710",
+            "BigCodeBench/742",
+            "BigCodeBench/748",
+            "BigCodeBench/776",
+            "BigCodeBench/803",
+            "BigCodeBench/877",
+            "BigCodeBench/878",
+            "BigCodeBench/880",
+            "BigCodeBench/885",
+            "BigCodeBench/891",
+            "BigCodeBench/901",
+            "BigCodeBench/903",
+            "BigCodeBench/921",
+            "BigCodeBench/927",
+            "BigCodeBench/1017",
+            "BigCodeBench/1080",
+            "BigCodeBench/1084"
+        ],
+        "id": 103
+    },
+    "numpy,pandas,statistics": {
+        "problems_id": [
+            "BigCodeBench/141"
+        ],
+        "id": 104
+    },
+    "ipaddress,requests": {
+        "problems_id": [
+            "BigCodeBench/144"
+        ],
+        "id": 105
+    },
+    "csv,ipaddress": {
+        "problems_id": [
+            "BigCodeBench/145"
+        ],
+        "id": 106
+    },
+    "ipaddress,subprocess": {
+        "problems_id": [
+            "BigCodeBench/146"
+        ],
+        "id": 107
+    },
+    "ipaddress,socket,threading": {
+        "problems_id": [
+            "BigCodeBench/147"
+        ],
+        "id": 108
+    },
+    "glob,mimetypes,os,re": {
+        "problems_id": [
+            "BigCodeBench/154"
+        ],
+        "id": 109
+    },
+    "gzip,json,urllib": {
+        "problems_id": [
+            "BigCodeBench/158"
+        ],
+        "id": 110
+    },
+    "gzip,io,struct": {
+        "problems_id": [
+            "BigCodeBench/159"
+        ],
+        "id": 111
+    },
+    "datetime,pandas,re": {
+        "problems_id": [
+            "BigCodeBench/161"
+        ],
+        "id": 112
+    },
+    "matplotlib,numpy,re": {
+        "problems_id": [
+            "BigCodeBench/162"
+        ],
+        "id": 113
+    },
+    "matplotlib,pandas,random": {
+        "problems_id": [
+            "BigCodeBench/165",
+            "BigCodeBench/167",
+            "BigCodeBench/607",
+            "BigCodeBench/616"
+        ],
+        "id": 114
+    },
+    "datetime,holidays,pandas": {
+        "problems_id": [
+            "BigCodeBench/166"
+        ],
+        "id": 115
+    },
+    "io,pandas,requests": {
+        "problems_id": [
+            "BigCodeBench/170",
+            "BigCodeBench/390"
+        ],
+        "id": 116
+    },
+    "collections,pandas,random": {
+        "problems_id": [
+            "BigCodeBench/171"
+        ],
+        "id": 117
+    },
+    "datetime,json": {
+        "problems_id": [
+            "BigCodeBench/172",
+            "BigCodeBench/1038"
+        ],
+        "id": 118
+    },
+    "matplotlib,re": {
+        "problems_id": [
+            "BigCodeBench/175"
+        ],
+        "id": 119
+    },
+    "re,socket": {
+        "problems_id": [
+            "BigCodeBench/176"
+        ],
+        "id": 120
+    },
+    "nltk,re,string": {
+        "problems_id": [
+            "BigCodeBench/177",
+            "BigCodeBench/656"
+        ],
+        "id": 121
+    },
+    "json,re": {
+        "problems_id": [
+            "BigCodeBench/178"
+        ],
+        "id": 122
+    },
+    "matplotlib,numpy,re,sklearn": {
+        "problems_id": [
+            "BigCodeBench/179"
+        ],
+        "id": 123
+    },
+    "PIL,matplotlib,numpy,os,skimage": {
+        "problems_id": [
+            "BigCodeBench/180"
+        ],
+        "id": 124
+    },
+    "django,random,time": {
+        "problems_id": [
+            "BigCodeBench/181"
+        ],
+        "id": 125
+    },
+    "re,sklearn": {
+        "problems_id": [
+            "BigCodeBench/182",
+            "BigCodeBench/1100"
+        ],
+        "id": 126
+    },
+    "django,uuid": {
+        "problems_id": [
+            "BigCodeBench/183"
+        ],
+        "id": 127
+    },
+    "pandas,re,sklearn": {
+        "problems_id": [
+            "BigCodeBench/184"
+        ],
+        "id": 128
+    },
+    "folium,numpy,pandas": {
+        "problems_id": [
+            "BigCodeBench/185"
+        ],
+        "id": 129
+    },
+    "folium,geopy": {
+        "problems_id": [
+            "BigCodeBench/186"
+        ],
+        "id": 130
+    },
+    "geopandas,numpy,shapely": {
+        "problems_id": [
+            "BigCodeBench/187"
+        ],
+        "id": 131
+    },
+    "folium,geopy,pandas": {
+        "problems_id": [
+            "BigCodeBench/188"
+        ],
+        "id": 132
+    },
+    "json,re,requests": {
+        "problems_id": [
+            "BigCodeBench/189",
+            "BigCodeBench/1125"
+        ],
+        "id": 133
+    },
+    "csv,io,pandas,sqlite3": {
+        "problems_id": [
+            "BigCodeBench/190"
+        ],
+        "id": 134
+    },
+    "random,scipy": {
+        "problems_id": [
+            "BigCodeBench/191"
+        ],
+        "id": 135
+    },
+    "re,smtplib": {
+        "problems_id": [
+            "BigCodeBench/192"
+        ],
+        "id": 136
+    },
+    "platform,subprocess,time": {
+        "problems_id": [
+            "BigCodeBench/195"
+        ],
+        "id": 137
+    },
+    "matplotlib,numpy,random,seaborn": {
+        "problems_id": [
+            "BigCodeBench/196"
+        ],
+        "id": 138
+    },
+    "heapq,math,matplotlib": {
+        "problems_id": [
+            "BigCodeBench/197"
+        ],
+        "id": 139
+    },
+    "bisect,matplotlib,numpy,statistics": {
+        "problems_id": [
+            "BigCodeBench/198"
+        ],
+        "id": 140
+    },
+    "datetime,pandas,pytz,random": {
+        "problems_id": [
+            "BigCodeBench/199"
+        ],
+        "id": 141
+    },
+    "bisect,matplotlib,random,statistics": {
+        "problems_id": [
+            "BigCodeBench/200"
+        ],
+        "id": 142
+    },
+    "bisect,statistics": {
+        "problems_id": [
+            "BigCodeBench/201"
+        ],
+        "id": 143
+    },
+    "collections,json,re": {
+        "problems_id": [
+            "BigCodeBench/202",
+            "BigCodeBench/761"
+        ],
+        "id": 144
+    },
+    "json,smtplib": {
+        "problems_id": [
+            "BigCodeBench/203"
+        ],
+        "id": 145
+    },
+    "collections,matplotlib,numpy": {
+        "problems_id": [
+            "BigCodeBench/204",
+            "BigCodeBench/524",
+            "BigCodeBench/1051"
+        ],
+        "id": 146
+    },
+    "multiprocessing,subprocess": {
+        "problems_id": [
+            "BigCodeBench/205"
+        ],
+        "id": 147
+    },
+    "csv,json,os": {
+        "problems_id": [
+            "BigCodeBench/206"
+        ],
+        "id": 148
+    },
+    "re,requests": {
+        "problems_id": [
+            "BigCodeBench/207"
+        ],
+        "id": 149
+    },
+    "matplotlib,numpy,operator": {
+        "problems_id": [
+            "BigCodeBench/209",
+            "BigCodeBench/212"
+        ],
+        "id": 150
+    },
+    "collections,matplotlib,operator": {
+        "problems_id": [
+            "BigCodeBench/210"
+        ],
+        "id": 151
+    },
+    "os,requests,zipfile": {
+        "problems_id": [
+            "BigCodeBench/211",
+            "BigCodeBench/1006"
+        ],
+        "id": 152
+    },
+    "matplotlib,random,scipy,time": {
+        "problems_id": [
+            "BigCodeBench/213"
+        ],
+        "id": 153
+    },
+    "cv2,matplotlib,numpy,random": {
+        "problems_id": [
+            "BigCodeBench/214"
+        ],
+        "id": 154
+    },
+    "json,pandas,requests,seaborn": {
+        "problems_id": [
+            "BigCodeBench/215"
+        ],
+        "id": 155
+    },
+    "collections,json,os,pandas": {
+        "problems_id": [
+            "BigCodeBench/216"
+        ],
+        "id": 156
+    },
+    "math,numpy,statistics": {
+        "problems_id": [
+            "BigCodeBench/219"
+        ],
+        "id": 157
+    },
+    "random,time,turtle": {
+        "problems_id": [
+            "BigCodeBench/220"
+        ],
+        "id": 158
+    },
+    "math,matplotlib,numpy": {
+        "problems_id": [
+            "BigCodeBench/222",
+            "BigCodeBench/226",
+            "BigCodeBench/399"
+        ],
+        "id": 159
+    },
+    "librosa,matplotlib,numpy,os,soundfile": {
+        "problems_id": [
+            "BigCodeBench/227"
+        ],
+        "id": 160
+    },
+    "datetime,json,random": {
+        "problems_id": [
+            "BigCodeBench/229"
+        ],
+        "id": 161
+    },
+    "matplotlib,numpy,random,scipy": {
+        "problems_id": [
+            "BigCodeBench/231"
+        ],
+        "id": 162
+    },
+    "collections,pandas": {
+        "problems_id": [
+            "BigCodeBench/232",
+            "BigCodeBench/352",
+            "BigCodeBench/388",
+            "BigCodeBench/471",
+            "BigCodeBench/550",
+            "BigCodeBench/679",
+            "BigCodeBench/846",
+            "BigCodeBench/886",
+            "BigCodeBench/902"
+        ],
+        "id": 163
+    },
+    "matplotlib,numpy,statsmodels": {
+        "problems_id": [
+            "BigCodeBench/235"
+        ],
+        "id": 164
+    },
+    "matplotlib,numpy,sklearn": {
+        "problems_id": [
+            "BigCodeBench/237",
+            "BigCodeBench/241",
+            "BigCodeBench/442",
+            "BigCodeBench/443",
+            "BigCodeBench/447",
+            "BigCodeBench/589",
+            "BigCodeBench/624",
+            "BigCodeBench/660",
+            "BigCodeBench/662"
+        ],
+        "id": 165
+    },
+    "cv2,matplotlib": {
+        "problems_id": [
+            "BigCodeBench/242"
+        ],
+        "id": 166
+    },
+    "pandas,random,scipy": {
+        "problems_id": [
+            "BigCodeBench/245"
+        ],
+        "id": 167
+    },
+    "pandas,random,sklearn": {
+        "problems_id": [
+            "BigCodeBench/247",
+            "BigCodeBench/249",
+            "BigCodeBench/619"
+        ],
+        "id": 168
+    },
+    "itertools,matplotlib,numpy": {
+        "problems_id": [
+            "BigCodeBench/248",
+            "BigCodeBench/293",
+            "BigCodeBench/473"
+        ],
+        "id": 169
+    },
+    "itertools,json,numpy": {
+        "problems_id": [
+            "BigCodeBench/250"
+        ],
+        "id": 170
+    },
+    "itertools,matplotlib": {
+        "problems_id": [
+            "BigCodeBench/252"
+        ],
+        "id": 171
+    },
+    "json,math": {
+        "problems_id": [
+            "BigCodeBench/254"
+        ],
+        "id": 172
+    },
+    "datetime,hashlib,json,random": {
+        "problems_id": [
+            "BigCodeBench/256"
+        ],
+        "id": 173
+    },
+    "json,random": {
+        "problems_id": [
+            "BigCodeBench/258"
+        ],
+        "id": 174
+    },
+    "glob,json,os": {
+        "problems_id": [
+            "BigCodeBench/260"
+        ],
+        "id": 175
+    },
+    "collections,matplotlib,seaborn": {
+        "problems_id": [
+            "BigCodeBench/262"
+        ],
+        "id": 176
+    },
+    "glob,os,shutil,time": {
+        "problems_id": [
+            "BigCodeBench/263"
+        ],
+        "id": 177
+    },
+    "collections,json,os": {
+        "problems_id": [
+            "BigCodeBench/265",
+            "BigCodeBench/283",
+            "BigCodeBench/287",
+            "BigCodeBench/288"
+        ],
+        "id": 178
+    },
+    "collections,csv,os": {
+        "problems_id": [
+            "BigCodeBench/266",
+            "BigCodeBench/286",
+            "BigCodeBench/721",
+            "BigCodeBench/800"
+        ],
+        "id": 179
+    },
+    "collections,random": {
+        "problems_id": [
+            "BigCodeBench/268",
+            "BigCodeBench/279",
+            "BigCodeBench/751",
+            "BigCodeBench/816",
+            "BigCodeBench/861",
+            "BigCodeBench/892",
+            "BigCodeBench/898",
+            "BigCodeBench/1114"
+        ],
+        "id": 180
+    },
+    "collections,re": {
+        "problems_id": [
+            "BigCodeBench/270",
+            "BigCodeBench/766",
+            "BigCodeBench/931",
+            "BigCodeBench/932",
+            "BigCodeBench/937",
+            "BigCodeBench/1098",
+            "BigCodeBench/1099",
+            "BigCodeBench/1108"
+        ],
+        "id": 181
+    },
+    "hashlib,random,string,time": {
+        "problems_id": [
+            "BigCodeBench/271"
+        ],
+        "id": 182
+    },
+    "cgi,http,json": {
+        "problems_id": [
+            "BigCodeBench/272",
+            "BigCodeBench/273"
+        ],
+        "id": 183
+    },
+    "cgi,email,http,json,smtplib": {
+        "problems_id": [
+            "BigCodeBench/274"
+        ],
+        "id": 184
+    },
+    "itertools,math,random": {
+        "problems_id": [
+            "BigCodeBench/277"
+        ],
+        "id": 185
+    },
+    "numpy,sympy": {
+        "problems_id": [
+            "BigCodeBench/278"
+        ],
+        "id": 186
+    },
+    "collections,os,re": {
+        "problems_id": [
+            "BigCodeBench/281"
+        ],
+        "id": 187
+    },
+    "cv2,matplotlib,mpl_toolkits,numpy,os": {
+        "problems_id": [
+            "BigCodeBench/282"
+        ],
+        "id": 188
+    },
+    "bs4,mechanize,urllib": {
+        "problems_id": [
+            "BigCodeBench/284"
+        ],
+        "id": 189
+    },
+    "bs4,mechanize": {
+        "problems_id": [
+            "BigCodeBench/285"
+        ],
+        "id": 190
+    },
+    "sklearn,tensorflow": {
+        "problems_id": [
+            "BigCodeBench/289"
+        ],
+        "id": 191
+    },
+    "collections,nltk,os": {
+        "problems_id": [
+            "BigCodeBench/290"
+        ],
+        "id": 192
+    },
+    "matplotlib,numpy,seaborn": {
+        "problems_id": [
+            "BigCodeBench/291",
+            "BigCodeBench/977"
+        ],
+        "id": 193
+    },
+    "numpy,pandas,sklearn": {
+        "problems_id": [
+            "BigCodeBench/292",
+            "BigCodeBench/440",
+            "BigCodeBench/517",
+            "BigCodeBench/680",
+            "BigCodeBench/746",
+            "BigCodeBench/752",
+            "BigCodeBench/758",
+            "BigCodeBench/837",
+            "BigCodeBench/945",
+            "BigCodeBench/969",
+            "BigCodeBench/976",
+            "BigCodeBench/978",
+            "BigCodeBench/979",
+            "BigCodeBench/1088",
+            "BigCodeBench/1139"
+        ],
+        "id": 194
+    },
+    "itertools,statistics": {
+        "problems_id": [
+            "BigCodeBench/295"
+        ],
+        "id": 195
+    },
+    "itertools,math,pandas": {
+        "problems_id": [
+            "BigCodeBench/299"
+        ],
+        "id": 196
+    },
+    "dateutil,math,numpy,pytz": {
+        "problems_id": [
+            "BigCodeBench/301",
+            "BigCodeBench/303"
+        ],
+        "id": 197
+    },
+    "logging,os": {
+        "problems_id": [
+            "BigCodeBench/306"
+        ],
+        "id": 198
+    },
+    "pandas,random,statistics": {
+        "problems_id": [
+            "BigCodeBench/308",
+            "BigCodeBench/627",
+            "BigCodeBench/850"
+        ],
+        "id": 199
+    },
+    "numpy,random,sklearn": {
+        "problems_id": [
+            "BigCodeBench/309"
+        ],
+        "id": 200
+    },
+    "csv,os,random,statistics": {
+        "problems_id": [
+            "BigCodeBench/310"
+        ],
+        "id": 201
+    },
+    "numpy,random,scipy": {
+        "problems_id": [
+            "BigCodeBench/311"
+        ],
+        "id": 202
+    },
+    "datetime,os,re,shutil": {
+        "problems_id": [
+            "BigCodeBench/313"
+        ],
+        "id": 203
+    },
+    "http,socket,ssl": {
+        "problems_id": [
+            "BigCodeBench/314"
+        ],
+        "id": 204
+    },
+    "os,python_http_client,sendgrid": {
+        "problems_id": [
+            "BigCodeBench/315"
+        ],
+        "id": 205
+    },
+    "numpy,re,sklearn": {
+        "problems_id": [
+            "BigCodeBench/317",
+            "BigCodeBench/727"
+        ],
+        "id": 206
+    },
+    "math,matplotlib,random": {
+        "problems_id": [
+            "BigCodeBench/318",
+            "BigCodeBench/628"
+        ],
+        "id": 207
+    },
+    "matplotlib,nltk,re": {
+        "problems_id": [
+            "BigCodeBench/319"
+        ],
+        "id": 208
+    },
+    "os,random,subprocess": {
+        "problems_id": [
+            "BigCodeBench/320"
+        ],
+        "id": 209
+    },
+    "pandas,re,scipy": {
+        "problems_id": [
+            "BigCodeBench/321"
+        ],
+        "id": 210
+    },
+    "os,shutil,subprocess,sys": {
+        "problems_id": [
+            "BigCodeBench/322"
+        ],
+        "id": 211
+    },
+    "collections,numpy,re,sklearn": {
+        "problems_id": [
+            "BigCodeBench/323"
+        ],
+        "id": 212
+    },
+    "subprocess,threading,time": {
+        "problems_id": [
+            "BigCodeBench/324"
+        ],
+        "id": 213
+    },
+    "glob,os,pathlib,re": {
+        "problems_id": [
+            "BigCodeBench/325",
+            "BigCodeBench/336"
+        ],
+        "id": 214
+    },
+    "glob,os,subprocess,sys": {
+        "problems_id": [
+            "BigCodeBench/326"
+        ],
+        "id": 215
+    },
+    "collections,csv,re": {
+        "problems_id": [
+            "BigCodeBench/327"
+        ],
+        "id": 216
+    },
+    "collections,queue,random": {
+        "problems_id": [
+            "BigCodeBench/328",
+            "BigCodeBench/335"
+        ],
+        "id": 217
+    },
+    "heapq,random": {
+        "problems_id": [
+            "BigCodeBench/330",
+            "BigCodeBench/333",
+            "BigCodeBench/848"
+        ],
+        "id": 218
+    },
+    "bisect,random": {
+        "problems_id": [
+            "BigCodeBench/331"
+        ],
+        "id": 219
+    },
+    "collections,nltk,re": {
+        "problems_id": [
+            "BigCodeBench/332",
+            "BigCodeBench/376",
+            "BigCodeBench/806",
+            "BigCodeBench/849",
+            "BigCodeBench/940"
+        ],
+        "id": 220
+    },
+    "nltk,pandas,sklearn": {
+        "problems_id": [
+            "BigCodeBench/334"
+        ],
+        "id": 221
+    },
+    "matplotlib,random,string": {
+        "problems_id": [
+            "BigCodeBench/338"
+        ],
+        "id": 222
+    },
+    "hashlib,hmac,json,urllib": {
+        "problems_id": [
+            "BigCodeBench/339"
+        ],
+        "id": 223
+    },
+    "blake3,hashlib,json": {
+        "problems_id": [
+            "BigCodeBench/340"
+        ],
+        "id": 224
+    },
+    "random,re,string": {
+        "problems_id": [
+            "BigCodeBench/342",
+            "BigCodeBench/453",
+            "BigCodeBench/860",
+            "BigCodeBench/956"
+        ],
+        "id": 225
+    },
+    "os,subprocess,sys,time": {
+        "problems_id": [
+            "BigCodeBench/346"
+        ],
+        "id": 226
+    },
+    "numpy,pandas,re": {
+        "problems_id": [
+            "BigCodeBench/347",
+            "BigCodeBench/643"
+        ],
+        "id": 227
+    },
+    "os,signal,subprocess,time": {
+        "problems_id": [
+            "BigCodeBench/348"
+        ],
+        "id": 228
+    },
+    "glob,os,shutil,subprocess": {
+        "problems_id": [
+            "BigCodeBench/350"
+        ],
+        "id": 229
+    },
+    "collections,matplotlib,pandas": {
+        "problems_id": [
+            "BigCodeBench/354",
+            "BigCodeBench/469"
+        ],
+        "id": 230
+    },
+    "math,matplotlib,numpy,scipy": {
+        "problems_id": [
+            "BigCodeBench/355"
+        ],
+        "id": 231
+    },
+    "cmath,matplotlib,numpy": {
+        "problems_id": [
+            "BigCodeBench/356"
+        ],
+        "id": 232
+    },
+    "itertools,json": {
+        "problems_id": [
+            "BigCodeBench/358"
+        ],
+        "id": 233
+    },
+    "matplotlib,numpy,os,pandas": {
+        "problems_id": [
+            "BigCodeBench/360",
+            "BigCodeBench/995"
+        ],
+        "id": 234
+    },
+    "logging,pandas": {
+        "problems_id": [
+            "BigCodeBench/361"
+        ],
+        "id": 235
+    },
+    "os,pandas": {
+        "problems_id": [
+            "BigCodeBench/362",
+            "BigCodeBench/630",
+            "BigCodeBench/645",
+            "BigCodeBench/674",
+            "BigCodeBench/888"
+        ],
+        "id": 236
+    },
+    "math,multiprocessing": {
+        "problems_id": [
+            "BigCodeBench/363"
+        ],
+        "id": 237
+    },
+    "collections,datetime,matplotlib": {
+        "problems_id": [
+            "BigCodeBench/367"
+        ],
+        "id": 238
+    },
+    "os,random,shutil": {
+        "problems_id": [
+            "BigCodeBench/368"
+        ],
+        "id": 239
+    },
+    "glob,json,os,re": {
+        "problems_id": [
+            "BigCodeBench/370"
+        ],
+        "id": 240
+    },
+    "docx,glob,re": {
+        "problems_id": [
+            "BigCodeBench/372"
+        ],
+        "id": 241
+    },
+    "glob,openpyxl,os,regex": {
+        "problems_id": [
+            "BigCodeBench/374"
+        ],
+        "id": 242
+    },
+    "os,psutil,texttable": {
+        "problems_id": [
+            "BigCodeBench/377"
+        ],
+        "id": 243
+    },
+    "glob,os,pandas,texttable": {
+        "problems_id": [
+            "BigCodeBench/378"
+        ],
+        "id": 244
+    },
+    "os,re,shutil": {
+        "problems_id": [
+            "BigCodeBench/380",
+            "BigCodeBench/389",
+            "BigCodeBench/773",
+            "BigCodeBench/814",
+            "BigCodeBench/826",
+            "BigCodeBench/965"
+        ],
+        "id": 245
+    },
+    "matplotlib,os,pandas,seaborn,sklearn": {
+        "problems_id": [
+            "BigCodeBench/381"
+        ],
+        "id": 246
+    },
+    "collections,matplotlib,pandas,seaborn,textblob": {
+        "problems_id": [
+            "BigCodeBench/383"
+        ],
+        "id": 247
+    },
+    "collections,matplotlib": {
+        "problems_id": [
+            "BigCodeBench/385",
+            "BigCodeBench/520",
+            "BigCodeBench/522"
+        ],
+        "id": 248
+    },
+    "glob,os,shutil": {
+        "problems_id": [
+            "BigCodeBench/391",
+            "BigCodeBench/454",
+            "BigCodeBench/712"
+        ],
+        "id": 249
+    },
+    "glob,natsort,os,pandas,re": {
+        "problems_id": [
+            "BigCodeBench/395"
+        ],
+        "id": 250
+    },
+    "json,re,urllib": {
+        "problems_id": [
+            "BigCodeBench/397"
+        ],
+        "id": 251
+    },
+    "json,os": {
+        "problems_id": [
+            "BigCodeBench/398",
+            "BigCodeBench/724",
+            "BigCodeBench/743",
+            "BigCodeBench/830"
+        ],
+        "id": 252
+    },
+    "glob,json": {
+        "problems_id": [
+            "BigCodeBench/400"
+        ],
+        "id": 253
+    },
+    "flask,flask_mail,os": {
+        "problems_id": [
+            "BigCodeBench/401"
+        ],
+        "id": 254
+    },
+    "csv,json,os,re,requests": {
+        "problems_id": [
+            "BigCodeBench/402"
+        ],
+        "id": 255
+    },
+    "PIL,cv2,numpy,os": {
+        "problems_id": [
+            "BigCodeBench/403"
+        ],
+        "id": 256
+    },
+    "cv2,numpy,os": {
+        "problems_id": [
+            "BigCodeBench/404",
+            "BigCodeBench/423",
+            "BigCodeBench/426",
+            "BigCodeBench/431"
+        ],
+        "id": 257
+    },
+    "PIL,matplotlib,numpy,os": {
+        "problems_id": [
+            "BigCodeBench/406"
+        ],
+        "id": 258
+    },
+    "csv,openpyxl,os": {
+        "problems_id": [
+            "BigCodeBench/407"
+        ],
+        "id": 259
+    },
+    "pandas,sqlite3": {
+        "problems_id": [
+            "BigCodeBench/408",
+            "BigCodeBench/538",
+            "BigCodeBench/926"
+        ],
+        "id": 260
+    },
+    "numpy,os,pandas": {
+        "problems_id": [
+            "BigCodeBench/409",
+            "BigCodeBench/889"
+        ],
+        "id": 261
+    },
+    "datetime,os,pandas": {
+        "problems_id": [
+            "BigCodeBench/410",
+            "BigCodeBench/1022"
+        ],
+        "id": 262
+    },
+    "base64,json,unicodedata": {
+        "problems_id": [
+            "BigCodeBench/412"
+        ],
+        "id": 263
+    },
+    "flask_mail,os": {
+        "problems_id": [
+            "BigCodeBench/413"
+        ],
+        "id": 264
+    },
+    "codecs,pandas": {
+        "problems_id": [
+            "BigCodeBench/415"
+        ],
+        "id": 265
+    },
+    "keras,matplotlib,sklearn": {
+        "problems_id": [
+            "BigCodeBench/417"
+        ],
+        "id": 266
+    },
+    "matplotlib,sklearn,tensorflow": {
+        "problems_id": [
+            "BigCodeBench/418",
+            "BigCodeBench/419"
+        ],
+        "id": 267
+    },
+    "json,os,requests,time": {
+        "problems_id": [
+            "BigCodeBench/421"
+        ],
+        "id": 268
+    },
+    "cv2,numpy,os,sklearn": {
+        "problems_id": [
+            "BigCodeBench/424"
+        ],
+        "id": 269
+    },
+    "cv2,matplotlib,os": {
+        "problems_id": [
+            "BigCodeBench/425"
+        ],
+        "id": 270
+    },
+    "pandas,seaborn,sklearn": {
+        "problems_id": [
+            "BigCodeBench/428",
+            "BigCodeBench/429"
+        ],
+        "id": 271
+    },
+    "scipy,seaborn": {
+        "problems_id": [
+            "BigCodeBench/432"
+        ],
+        "id": 272
+    },
+    "base64,binascii,hashlib,hmac": {
+        "problems_id": [
+            "BigCodeBench/433"
+        ],
+        "id": 273
+    },
+    "pandas,random,re": {
+        "problems_id": [
+            "BigCodeBench/434",
+            "BigCodeBench/478",
+            "BigCodeBench/480",
+            "BigCodeBench/481",
+            "BigCodeBench/482",
+            "BigCodeBench/923"
+        ],
+        "id": 274
+    },
+    "matplotlib,string": {
+        "problems_id": [
+            "BigCodeBench/436"
+        ],
+        "id": 275
+    },
+    "os,pickle": {
+        "problems_id": [
+            "BigCodeBench/437",
+            "BigCodeBench/730",
+            "BigCodeBench/832"
+        ],
+        "id": 276
+    },
+    "matplotlib,os,pickle": {
+        "problems_id": [
+            "BigCodeBench/438"
+        ],
+        "id": 277
+    },
+    "matplotlib,scipy,sklearn": {
+        "problems_id": [
+            "BigCodeBench/450"
+        ],
+        "id": 278
+    },
+    "matplotlib,numpy,seaborn,sklearn": {
+        "problems_id": [
+            "BigCodeBench/451",
+            "BigCodeBench/980"
+        ],
+        "id": 279
+    },
+    "json,pandas,re": {
+        "problems_id": [
+            "BigCodeBench/458"
+        ],
+        "id": 280
+    },
+    "datetime,os,subprocess,time": {
+        "problems_id": [
+            "BigCodeBench/459"
+        ],
+        "id": 281
+    },
+    "pandas,subprocess": {
+        "problems_id": [
+            "BigCodeBench/460"
+        ],
+        "id": 282
+    },
+    "os,psutil,subprocess,time": {
+        "problems_id": [
+            "BigCodeBench/461"
+        ],
+        "id": 283
+    },
+    "datetime,decimal,json": {
+        "problems_id": [
+            "BigCodeBench/464"
+        ],
+        "id": 284
+    },
+    "datetime,decimal,json,numpy": {
+        "problems_id": [
+            "BigCodeBench/465"
+        ],
+        "id": 285
+    },
+    "enum,json": {
+        "problems_id": [
+            "BigCodeBench/466"
+        ],
+        "id": 286
+    },
+    "datetime,pandas": {
+        "problems_id": [
+            "BigCodeBench/475",
+            "BigCodeBench/1044"
+        ],
+        "id": 287
+    },
+    "pandas,random,string": {
+        "problems_id": [
+            "BigCodeBench/479",
+            "BigCodeBench/1031"
+        ],
+        "id": 288
+    },
+    "datetime,math,numpy,pandas": {
+        "problems_id": [
+            "BigCodeBench/484"
+        ],
+        "id": 289
+    },
+    "datetime,matplotlib,numpy,pytz": {
+        "problems_id": [
+            "BigCodeBench/485"
+        ],
+        "id": 290
+    },
+    "json,xmltodict": {
+        "problems_id": [
+            "BigCodeBench/490",
+            "BigCodeBench/498"
+        ],
+        "id": 291
+    },
+    "datetime,matplotlib,random": {
+        "problems_id": [
+            "BigCodeBench/491",
+            "BigCodeBench/493",
+            "BigCodeBench/1047"
+        ],
+        "id": 292
+    },
+    "datetime,faker,pytz,re": {
+        "problems_id": [
+            "BigCodeBench/494"
+        ],
+        "id": 293
+    },
+    "calendar,datetime,pytz": {
+        "problems_id": [
+            "BigCodeBench/497"
+        ],
+        "id": 294
+    },
+    "csv,io,os,xlwt": {
+        "problems_id": [
+            "BigCodeBench/499"
+        ],
+        "id": 295
+    },
+    "os,xlwt": {
+        "problems_id": [
+            "BigCodeBench/500"
+        ],
+        "id": 296
+    },
+    "os,pandas,xlwt": {
+        "problems_id": [
+            "BigCodeBench/501"
+        ],
+        "id": 297
+    },
+    "datetime,pandas,random,seaborn": {
+        "problems_id": [
+            "BigCodeBench/502"
+        ],
+        "id": 298
+    },
+    "base64,hashlib,rsa": {
+        "problems_id": [
+            "BigCodeBench/504"
+        ],
+        "id": 299
+    },
+    "hashlib,hmac": {
+        "problems_id": [
+            "BigCodeBench/505"
+        ],
+        "id": 300
+    },
+    "hashlib,io,os": {
+        "problems_id": [
+            "BigCodeBench/508"
+        ],
+        "id": 301
+    },
+    "csv,difflib,pandas": {
+        "problems_id": [
+            "BigCodeBench/509"
+        ],
+        "id": 302
+    },
+    "difflib,gzip": {
+        "problems_id": [
+            "BigCodeBench/510"
+        ],
+        "id": 303
+    },
+    "numpy,pandas,statsmodels": {
+        "problems_id": [
+            "BigCodeBench/516",
+            "BigCodeBench/943"
+        ],
+        "id": 304
+    },
+    "collections,json,matplotlib,numpy": {
+        "problems_id": [
+            "BigCodeBench/525"
+        ],
+        "id": 305
+    },
+    "collections,json,numpy,pandas": {
+        "problems_id": [
+            "BigCodeBench/526"
+        ],
+        "id": 306
+    },
+    "collections,json,matplotlib,numpy,pandas,seaborn": {
+        "problems_id": [
+            "BigCodeBench/527"
+        ],
+        "id": 307
+    },
+    "collections,csv,matplotlib,pandas": {
+        "problems_id": [
+            "BigCodeBench/528"
+        ],
+        "id": 308
+    },
+    "collections,matplotlib,random": {
+        "problems_id": [
+            "BigCodeBench/529"
+        ],
+        "id": 309
+    },
+    "collections,matplotlib,numpy,pandas,seaborn": {
+        "problems_id": [
+            "BigCodeBench/530"
+        ],
+        "id": 310
+    },
+    "collections,matplotlib,sklearn": {
+        "problems_id": [
+            "BigCodeBench/531"
+        ],
+        "id": 311
+    },
+    "collections,matplotlib,numpy,scipy": {
+        "problems_id": [
+            "BigCodeBench/532"
+        ],
+        "id": 312
+    },
+    "base64,hashlib,numpy,secrets": {
+        "problems_id": [
+            "BigCodeBench/533"
+        ],
+        "id": 313
+    },
+    "base64,cryptography,numpy": {
+        "problems_id": [
+            "BigCodeBench/534"
+        ],
+        "id": 314
+    },
+    "numpy,random,sqlite3": {
+        "problems_id": [
+            "BigCodeBench/535"
+        ],
+        "id": 315
+    },
+    "os,pandas,sqlite3": {
+        "problems_id": [
+            "BigCodeBench/536",
+            "BigCodeBench/882"
+        ],
+        "id": 316
+    },
+    "pandas,seaborn,sqlite3": {
+        "problems_id": [
+            "BigCodeBench/537"
+        ],
+        "id": 317
+    },
+    "os,random,sqlite3": {
+        "problems_id": [
+            "BigCodeBench/539"
+        ],
+        "id": 318
+    },
+    "collections,itertools,matplotlib,numpy": {
+        "problems_id": [
+            "BigCodeBench/540"
+        ],
+        "id": 319
+    },
+    "importlib,os,pkgutil,sys": {
+        "problems_id": [
+            "BigCodeBench/541"
+        ],
+        "id": 320
+    },
+    "hashlib,random,struct": {
+        "problems_id": [
+            "BigCodeBench/542"
+        ],
+        "id": 321
+    },
+    "base64,os": {
+        "problems_id": [
+            "BigCodeBench/543"
+        ],
+        "id": 322
+    },
+    "struct,zlib": {
+        "problems_id": [
+            "BigCodeBench/544"
+        ],
+        "id": 323
+    },
+    "codecs,random,struct": {
+        "problems_id": [
+            "BigCodeBench/545"
+        ],
+        "id": 324
+    },
+    "collections,prettytable": {
+        "problems_id": [
+            "BigCodeBench/546"
+        ],
+        "id": 325
+    },
+    "base64,random,string,zlib": {
+        "problems_id": [
+            "BigCodeBench/548"
+        ],
+        "id": 326
+    },
+    "base64,pandas": {
+        "problems_id": [
+            "BigCodeBench/549"
+        ],
+        "id": 327
+    },
+    "collections,matplotlib,pandas,seaborn": {
+        "problems_id": [
+            "BigCodeBench/551"
+        ],
+        "id": 328
+    },
+    "collections,itertools,matplotlib": {
+        "problems_id": [
+            "BigCodeBench/552"
+        ],
+        "id": 329
+    },
+    "matplotlib,numpy,pandas,scipy": {
+        "problems_id": [
+            "BigCodeBench/555"
+        ],
+        "id": 330
+    },
+    "difflib,numpy,random": {
+        "problems_id": [
+            "BigCodeBench/556"
+        ],
+        "id": 331
+    },
+    "difflib,matplotlib,numpy": {
+        "problems_id": [
+            "BigCodeBench/557"
+        ],
+        "id": 332
+    },
+    "dateutil,pytz": {
+        "problems_id": [
+            "BigCodeBench/561",
+            "BigCodeBench/647",
+            "BigCodeBench/1074"
+        ],
+        "id": 333
+    },
+    "ctypes,os,subprocess,sys": {
+        "problems_id": [
+            "BigCodeBench/562"
+        ],
+        "id": 334
+    },
+    "ctypes,glob,os,shutil": {
+        "problems_id": [
+            "BigCodeBench/563"
+        ],
+        "id": 335
+    },
+    "ctypes,datetime,os,pytz": {
+        "problems_id": [
+            "BigCodeBench/564"
+        ],
+        "id": 336
+    },
+    "binascii,ctypes,hashlib": {
+        "problems_id": [
+            "BigCodeBench/565"
+        ],
+        "id": 337
+    },
+    "inspect,types": {
+        "problems_id": [
+            "BigCodeBench/566"
+        ],
+        "id": 338
+    },
+    "inspect,matplotlib,pandas": {
+        "problems_id": [
+            "BigCodeBench/568"
+        ],
+        "id": 339
+    },
+    "inspect,math,types": {
+        "problems_id": [
+            "BigCodeBench/569"
+        ],
+        "id": 340
+    },
+    "inspect,json,types": {
+        "problems_id": [
+            "BigCodeBench/570"
+        ],
+        "id": 341
+    },
+    "inspect,pandas": {
+        "problems_id": [
+            "BigCodeBench/571"
+        ],
+        "id": 342
+    },
+    "matplotlib,numpy,random": {
+        "problems_id": [
+            "BigCodeBench/572",
+            "BigCodeBench/897",
+            "BigCodeBench/1056"
+        ],
+        "id": 343
+    },
+    "hashlib,os,pathlib,unicodedata": {
+        "problems_id": [
+            "BigCodeBench/577"
+        ],
+        "id": 344
+    },
+    "requests,unicodedata": {
+        "problems_id": [
+            "BigCodeBench/578"
+        ],
+        "id": 345
+    },
+    "collections,csv,matplotlib,unicodedata": {
+        "problems_id": [
+            "BigCodeBench/579"
+        ],
+        "id": 346
+    },
+    "matplotlib,numpy,pandas,random,statistics": {
+        "problems_id": [
+            "BigCodeBench/580"
+        ],
+        "id": 347
+    },
+    "Crypto,base64,os,rsa": {
+        "problems_id": [
+            "BigCodeBench/583"
+        ],
+        "id": 348
+    },
+    "hashlib,rsa,urllib": {
+        "problems_id": [
+            "BigCodeBench/584"
+        ],
+        "id": 349
+    },
+    "base64,os,rsa,zipfile": {
+        "problems_id": [
+            "BigCodeBench/585"
+        ],
+        "id": 350
+    },
+    "base64,cryptography,rsa": {
+        "problems_id": [
+            "BigCodeBench/586"
+        ],
+        "id": 351
+    },
+    "base64,cryptography,os,rsa": {
+        "problems_id": [
+            "BigCodeBench/587"
+        ],
+        "id": 352
+    },
+    "datetime,pandas,pyquery,urllib": {
+        "problems_id": [
+            "BigCodeBench/590"
+        ],
+        "id": 353
+    },
+    "csv,datetime,os,random": {
+        "problems_id": [
+            "BigCodeBench/592",
+            "BigCodeBench/720"
+        ],
+        "id": 354
+    },
+    "csv,datetime,matplotlib,os,pandas,random": {
+        "problems_id": [
+            "BigCodeBench/593"
+        ],
+        "id": 355
+    },
+    "csv,datetime,os,random,shutil": {
+        "problems_id": [
+            "BigCodeBench/594"
+        ],
+        "id": 356
+    },
+    "array,bisect,random": {
+        "problems_id": [
+            "BigCodeBench/595"
+        ],
+        "id": 357
+    },
+    "pandas,time": {
+        "problems_id": [
+            "BigCodeBench/597",
+            "BigCodeBench/598",
+            "BigCodeBench/599",
+            "BigCodeBench/632",
+            "BigCodeBench/651"
+        ],
+        "id": 358
+    },
+    "seaborn,time": {
+        "problems_id": [
+            "BigCodeBench/601"
+        ],
+        "id": 359
+    },
+    "logging,subprocess": {
+        "problems_id": [
+            "BigCodeBench/604"
+        ],
+        "id": 360
+    },
+    "random,seaborn": {
+        "problems_id": [
+            "BigCodeBench/608"
+        ],
+        "id": 361
+    },
+    "pandas,random,seaborn": {
+        "problems_id": [
+            "BigCodeBench/610"
+        ],
+        "id": 362
+    },
+    "matplotlib,pandas,random,re": {
+        "problems_id": [
+            "BigCodeBench/617"
+        ],
+        "id": 363
+    },
+    "matplotlib,pandas,random,seaborn": {
+        "problems_id": [
+            "BigCodeBench/618"
+        ],
+        "id": 364
+    },
+    "itertools,matplotlib,numpy,sklearn": {
+        "problems_id": [
+            "BigCodeBench/621"
+        ],
+        "id": 365
+    },
+    "itertools,matplotlib,numpy,scipy": {
+        "problems_id": [
+            "BigCodeBench/622"
+        ],
+        "id": 366
+    },
+    "itertools,numpy,sklearn": {
+        "problems_id": [
+            "BigCodeBench/623"
+        ],
+        "id": 367
+    },
+    "math,pandas,random": {
+        "problems_id": [
+            "BigCodeBench/625"
+        ],
+        "id": 368
+    },
+    "dateutil,pytz,random": {
+        "problems_id": [
+            "BigCodeBench/626"
+        ],
+        "id": 369
+    },
+    "os,time": {
+        "problems_id": [
+            "BigCodeBench/629"
+        ],
+        "id": 370
+    },
+    "csv,os": {
+        "problems_id": [
+            "BigCodeBench/631",
+            "BigCodeBench/873"
+        ],
+        "id": 371
+    },
+    "nltk,re": {
+        "problems_id": [
+            "BigCodeBench/633",
+            "BigCodeBench/838"
+        ],
+        "id": 372
+    },
+    "itertools,scipy,typing": {
+        "problems_id": [
+            "BigCodeBench/634"
+        ],
+        "id": 373
+    },
+    "matplotlib,nltk,numpy,pandas,re,sklearn": {
+        "problems_id": [
+            "BigCodeBench/635"
+        ],
+        "id": 374
+    },
+    "matplotlib,numpy,pandas,random": {
+        "problems_id": [
+            "BigCodeBench/637"
+        ],
+        "id": 375
+    },
+    "numpy,pandas,seaborn": {
+        "problems_id": [
+            "BigCodeBench/639",
+            "BigCodeBench/661",
+            "BigCodeBench/1024"
+        ],
+        "id": 376
+    },
+    "binascii,hashlib,re": {
+        "problems_id": [
+            "BigCodeBench/642"
+        ],
+        "id": 377
+    },
+    "base64,hashlib": {
+        "problems_id": [
+            "BigCodeBench/644"
+        ],
+        "id": 378
+    },
+    "dateutil,os,pandas": {
+        "problems_id": [
+            "BigCodeBench/646"
+        ],
+        "id": 379
+    },
+    "datetime,dateutil": {
+        "problems_id": [
+            "BigCodeBench/648"
+        ],
+        "id": 380
+    },
+    "dateutil,numpy,pandas": {
+        "problems_id": [
+            "BigCodeBench/649"
+        ],
+        "id": 381
+    },
+    "datetime,dateutil,pytz": {
+        "problems_id": [
+            "BigCodeBench/650"
+        ],
+        "id": 382
+    },
+    "nltk,re,sklearn": {
+        "problems_id": [
+            "BigCodeBench/655"
+        ],
+        "id": 383
+    },
+    "gensim,nltk,re": {
+        "problems_id": [
+            "BigCodeBench/657"
+        ],
+        "id": 384
+    },
+    "nltk,pandas,re,sklearn": {
+        "problems_id": [
+            "BigCodeBench/658"
+        ],
+        "id": 385
+    },
+    "matplotlib,statistics": {
+        "problems_id": [
+            "BigCodeBench/664"
+        ],
+        "id": 386
+    },
+    "fnmatch,itertools,os,shutil": {
+        "problems_id": [
+            "BigCodeBench/665"
+        ],
+        "id": 387
+    },
+    "itertools,math": {
+        "problems_id": [
+            "BigCodeBench/666",
+            "BigCodeBench/668",
+            "BigCodeBench/669",
+            "BigCodeBench/670"
+        ],
+        "id": 388
+    },
+    "collections,heapq": {
+        "problems_id": [
+            "BigCodeBench/667",
+            "BigCodeBench/740"
+        ],
+        "id": 389
+    },
+    "json,os,random": {
+        "problems_id": [
+            "BigCodeBench/671"
+        ],
+        "id": 390
+    },
+    "csv,sys": {
+        "problems_id": [
+            "BigCodeBench/672"
+        ],
+        "id": 391
+    },
+    "os,random": {
+        "problems_id": [
+            "BigCodeBench/673",
+            "BigCodeBench/675"
+        ],
+        "id": 392
+    },
+    "numpy,pandas,scipy": {
+        "problems_id": [
+            "BigCodeBench/677",
+            "BigCodeBench/879"
+        ],
+        "id": 393
+    },
+    "json,os,pandas,shutil": {
+        "problems_id": [
+            "BigCodeBench/678"
+        ],
+        "id": 394
+    },
+    "collections,math": {
+        "problems_id": [
+            "BigCodeBench/682",
+            "BigCodeBench/795"
+        ],
+        "id": 395
+    },
+    "math,yaml": {
+        "problems_id": [
+            "BigCodeBench/683"
+        ],
+        "id": 396
+    },
+    "math,pandas": {
+        "problems_id": [
+            "BigCodeBench/692"
+        ],
+        "id": 397
+    },
+    "math,numpy,random": {
+        "problems_id": [
+            "BigCodeBench/696"
+        ],
+        "id": 398
+    },
+    "itertools,pandas": {
+        "problems_id": [
+            "BigCodeBench/704",
+            "BigCodeBench/813"
+        ],
+        "id": 399
+    },
+    "json,numpy": {
+        "problems_id": [
+            "BigCodeBench/707"
+        ],
+        "id": 400
+    },
+    "base64,csv,json,os": {
+        "problems_id": [
+            "BigCodeBench/708"
+        ],
+        "id": 401
+    },
+    "base64,html,re,textwrap": {
+        "problems_id": [
+            "BigCodeBench/709"
+        ],
+        "id": 402
+    },
+    "csv,json": {
+        "problems_id": [
+            "BigCodeBench/711"
+        ],
+        "id": 403
+    },
+    "pathlib,sys": {
+        "problems_id": [
+            "BigCodeBench/714"
+        ],
+        "id": 404
+    },
+    "subprocess,sys": {
+        "problems_id": [
+            "BigCodeBench/715"
+        ],
+        "id": 405
+    },
+    "datetime,json,sys": {
+        "problems_id": [
+            "BigCodeBench/716"
+        ],
+        "id": 406
+    },
+    "configparser,sys": {
+        "problems_id": [
+            "BigCodeBench/717"
+        ],
+        "id": 407
+    },
+    "numpy,re,scipy": {
+        "problems_id": [
+            "BigCodeBench/718"
+        ],
+        "id": 408
+    },
+    "glob,os,re": {
+        "problems_id": [
+            "BigCodeBench/719",
+            "BigCodeBench/768",
+            "BigCodeBench/939"
+        ],
+        "id": 409
+    },
+    "os,re,urllib": {
+        "problems_id": [
+            "BigCodeBench/722"
+        ],
+        "id": 410
+    },
+    "bs4,csv,os,urllib": {
+        "problems_id": [
+            "BigCodeBench/723"
+        ],
+        "id": 411
+    },
+    "codecs,glob,os": {
+        "problems_id": [
+            "BigCodeBench/725"
+        ],
+        "id": 412
+    },
+    "nltk,random,re": {
+        "problems_id": [
+            "BigCodeBench/726"
+        ],
+        "id": 413
+    },
+    "csv,io": {
+        "problems_id": [
+            "BigCodeBench/728"
+        ],
+        "id": 414
+    },
+    "os,pickle,random,string": {
+        "problems_id": [
+            "BigCodeBench/729"
+        ],
+        "id": 415
+    },
+    "os,pickle,sklearn": {
+        "problems_id": [
+            "BigCodeBench/731"
+        ],
+        "id": 416
+    },
+    "collections,nltk,re,string": {
+        "problems_id": [
+            "BigCodeBench/732"
+        ],
+        "id": 417
+    },
+    "re,string": {
+        "problems_id": [
+            "BigCodeBench/733",
+            "BigCodeBench/818",
+            "BigCodeBench/824",
+            "BigCodeBench/867",
+            "BigCodeBench/957",
+            "BigCodeBench/1097"
+        ],
+        "id": 418
+    },
+    "collections,nltk": {
+        "problems_id": [
+            "BigCodeBench/734",
+            "BigCodeBench/1094"
+        ],
+        "id": 419
+    },
+    "random,struct": {
+        "problems_id": [
+            "BigCodeBench/739"
+        ],
+        "id": 420
+    },
+    "itertools,operator": {
+        "problems_id": [
+            "BigCodeBench/741"
+        ],
+        "id": 421
+    },
+    "nltk,pandas,string": {
+        "problems_id": [
+            "BigCodeBench/744"
+        ],
+        "id": 422
+    },
+    "random,subprocess": {
+        "problems_id": [
+            "BigCodeBench/745"
+        ],
+        "id": 423
+    },
+    "math,re": {
+        "problems_id": [
+            "BigCodeBench/747"
+        ],
+        "id": 424
+    },
+    "pandas,statsmodels": {
+        "problems_id": [
+            "BigCodeBench/750",
+            "BigCodeBench/883"
+        ],
+        "id": 425
+    },
+    "math,random,statistics": {
+        "problems_id": [
+            "BigCodeBench/753"
+        ],
+        "id": 426
+    },
+    "glob,os": {
+        "problems_id": [
+            "BigCodeBench/755"
+        ],
+        "id": 427
+    },
+    "pathlib,shutil,typing": {
+        "problems_id": [
+            "BigCodeBench/756"
+        ],
+        "id": 428
+    },
+    "datetime,numpy": {
+        "problems_id": [
+            "BigCodeBench/757"
+        ],
+        "id": 429
+    },
+    "fnmatch,os,shutil": {
+        "problems_id": [
+            "BigCodeBench/759"
+        ],
+        "id": 430
+    },
+    "codecs,datetime,numpy,pandas,re": {
+        "problems_id": [
+            "BigCodeBench/760"
+        ],
+        "id": 431
+    },
+    "codecs,os,zipfile": {
+        "problems_id": [
+            "BigCodeBench/762"
+        ],
+        "id": 432
+    },
+    "collections,csv,json,numpy": {
+        "problems_id": [
+            "BigCodeBench/763"
+        ],
+        "id": 433
+    },
+    "csv,random": {
+        "problems_id": [
+            "BigCodeBench/764",
+            "BigCodeBench/839",
+            "BigCodeBench/1112"
+        ],
+        "id": 434
+    },
+    "os,pathlib,shutil": {
+        "problems_id": [
+            "BigCodeBench/765"
+        ],
+        "id": 435
+    },
+    "collections,itertools,operator": {
+        "problems_id": [
+            "BigCodeBench/769",
+            "BigCodeBench/778",
+            "BigCodeBench/1110",
+            "BigCodeBench/1111"
+        ],
+        "id": 436
+    },
+    "csv,os,pathlib,re": {
+        "problems_id": [
+            "BigCodeBench/771"
+        ],
+        "id": 437
+    },
+    "collections,re,string": {
+        "problems_id": [
+            "BigCodeBench/775"
+        ],
+        "id": 438
+    },
+    "os,re,zipfile": {
+        "problems_id": [
+            "BigCodeBench/777"
+        ],
+        "id": 439
+    },
+    "pandas,pytz": {
+        "problems_id": [
+            "BigCodeBench/780"
+        ],
+        "id": 440
+    },
+    "datetime,os": {
+        "problems_id": [
+            "BigCodeBench/781",
+            "BigCodeBench/804"
+        ],
+        "id": 441
+    },
+    "csv,pandas,random": {
+        "problems_id": [
+            "BigCodeBench/784",
+            "BigCodeBench/786"
+        ],
+        "id": 442
+    },
+    "heapq,scipy": {
+        "problems_id": [
+            "BigCodeBench/788"
+        ],
+        "id": 443
+    },
+    "heapq,sklearn": {
+        "problems_id": [
+            "BigCodeBench/790",
+            "BigCodeBench/792"
+        ],
+        "id": 444
+    },
+    "random,string": {
+        "problems_id": [
+            "BigCodeBench/794",
+            "BigCodeBench/820",
+            "BigCodeBench/822",
+            "BigCodeBench/852",
+            "BigCodeBench/930",
+            "BigCodeBench/959",
+            "BigCodeBench/960",
+            "BigCodeBench/989",
+            "BigCodeBench/1115"
+        ],
+        "id": 445
+    },
+    "collections,numpy": {
+        "problems_id": [
+            "BigCodeBench/801",
+            "BigCodeBench/1089"
+        ],
+        "id": 446
+    },
+    "nltk,re,textblob": {
+        "problems_id": [
+            "BigCodeBench/808"
+        ],
+        "id": 447
+    },
+    "os,re,subprocess": {
+        "problems_id": [
+            "BigCodeBench/810"
+        ],
+        "id": 448
+    },
+    "pathlib,re,tarfile": {
+        "problems_id": [
+            "BigCodeBench/812"
+        ],
+        "id": 449
+    },
+    "collections,logging": {
+        "problems_id": [
+            "BigCodeBench/817"
+        ],
+        "id": 450
+    },
+    "random,time": {
+        "problems_id": [
+            "BigCodeBench/819"
+        ],
+        "id": 451
+    },
+    "threading,time": {
+        "problems_id": [
+            "BigCodeBench/821"
+        ],
+        "id": 452
+    },
+    "numpy,time": {
+        "problems_id": [
+            "BigCodeBench/823"
+        ],
+        "id": 453
+    },
+    "itertools,numpy,string": {
+        "problems_id": [
+            "BigCodeBench/825"
+        ],
+        "id": 454
+    },
+    "math,sympy": {
+        "problems_id": [
+            "BigCodeBench/827"
+        ],
+        "id": 455
+    },
+    "errno,os,shutil": {
+        "problems_id": [
+            "BigCodeBench/828"
+        ],
+        "id": 456
+    },
+    "pandas,statistics": {
+        "problems_id": [
+            "BigCodeBench/829"
+        ],
+        "id": 457
+    },
+    "collections,random,statistics": {
+        "problems_id": [
+            "BigCodeBench/833"
+        ],
+        "id": 458
+    },
+    "binascii,gzip,io": {
+        "problems_id": [
+            "BigCodeBench/834"
+        ],
+        "id": 459
+    },
+    "csv,os,shutil": {
+        "problems_id": [
+            "BigCodeBench/836"
+        ],
+        "id": 460
+    },
+    "collections,json,re,string": {
+        "problems_id": [
+            "BigCodeBench/841"
+        ],
+        "id": 461
+    },
+    "random,sqlite3": {
+        "problems_id": [
+            "BigCodeBench/842"
+        ],
+        "id": 462
+    },
+    "random,re": {
+        "problems_id": [
+            "BigCodeBench/843",
+            "BigCodeBench/954",
+            "BigCodeBench/958"
+        ],
+        "id": 463
+    },
+    "csv,faker,random": {
+        "problems_id": [
+            "BigCodeBench/844"
+        ],
+        "id": 464
+    },
+    "Levenshtein,collections,numpy,re": {
+        "problems_id": [
+            "BigCodeBench/845"
+        ],
+        "id": 465
+    },
+    "os,random,re,string": {
+        "problems_id": [
+            "BigCodeBench/847"
+        ],
+        "id": 466
+    },
+    "re,textwrap": {
+        "problems_id": [
+            "BigCodeBench/851"
+        ],
+        "id": 467
+    },
+    "os,shutil,string": {
+        "problems_id": [
+            "BigCodeBench/853"
+        ],
+        "id": 468
+    },
+    "functools,itertools,numpy": {
+        "problems_id": [
+            "BigCodeBench/856"
+        ],
+        "id": 469
+    },
+    "glob,os,shutil,time,warnings": {
+        "problems_id": [
+            "BigCodeBench/857"
+        ],
+        "id": 470
+    },
+    "sklearn,warnings": {
+        "problems_id": [
+            "BigCodeBench/859"
+        ],
+        "id": 471
+    },
+    "numpy,pandas,scipy,sklearn": {
+        "problems_id": [
+            "BigCodeBench/865"
+        ],
+        "id": 472
+    },
+    "itertools,pandas,random": {
+        "problems_id": [
+            "BigCodeBench/869",
+            "BigCodeBench/909",
+            "BigCodeBench/1055"
+        ],
+        "id": 473
+    },
+    "itertools,numpy,pandas": {
+        "problems_id": [
+            "BigCodeBench/870",
+            "BigCodeBench/887",
+            "BigCodeBench/1057"
+        ],
+        "id": 474
+    },
+    "itertools,scipy": {
+        "problems_id": [
+            "BigCodeBench/874"
+        ],
+        "id": 475
+    },
+    "collections,operator,os,shutil": {
+        "problems_id": [
+            "BigCodeBench/876"
+        ],
+        "id": 476
+    },
+    "os,pandas,random": {
+        "problems_id": [
+            "BigCodeBench/890"
+        ],
+        "id": 477
+    },
+    "datetime,re": {
+        "problems_id": [
+            "BigCodeBench/893"
+        ],
+        "id": 478
+    },
+    "csv,glob,os": {
+        "problems_id": [
+            "BigCodeBench/905"
+        ],
+        "id": 479
+    },
+    "os,re,shutil,zipfile": {
+        "problems_id": [
+            "BigCodeBench/906"
+        ],
+        "id": 480
+    },
+    "matplotlib,os,pandas,re": {
+        "problems_id": [
+            "BigCodeBench/908"
+        ],
+        "id": 481
+    },
+    "functools,operator,string": {
+        "problems_id": [
+            "BigCodeBench/911"
+        ],
+        "id": 482
+    },
+    "numpy,scipy,typing": {
+        "problems_id": [
+            "BigCodeBench/913"
+        ],
+        "id": 483
+    },
+    "matplotlib,pandas,statsmodels,typing": {
+        "problems_id": [
+            "BigCodeBench/917"
+        ],
+        "id": 484
+    },
+    "os,pandas,sys": {
+        "problems_id": [
+            "BigCodeBench/924"
+        ],
+        "id": 485
+    },
+    "collections,itertools,string": {
+        "problems_id": [
+            "BigCodeBench/928"
+        ],
+        "id": 486
+    },
+    "string,wordninja": {
+        "problems_id": [
+            "BigCodeBench/933"
+        ],
+        "id": 487
+    },
+    "collections,hashlib": {
+        "problems_id": [
+            "BigCodeBench/934"
+        ],
+        "id": 488
+    },
+    "pandas,string": {
+        "problems_id": [
+            "BigCodeBench/935"
+        ],
+        "id": 489
+    },
+    "matplotlib,numpy,string": {
+        "problems_id": [
+            "BigCodeBench/936"
+        ],
+        "id": 490
+    },
+    "datetime,numpy,random": {
+        "problems_id": [
+            "BigCodeBench/947"
+        ],
+        "id": 491
+    },
+    "matplotlib,numpy,os": {
+        "problems_id": [
+            "BigCodeBench/953"
+        ],
+        "id": 492
+    },
+    "collections,matplotlib,numpy,re": {
+        "problems_id": [
+            "BigCodeBench/955"
+        ],
+        "id": 493
+    },
+    "collections,glob,os": {
+        "problems_id": [
+            "BigCodeBench/961"
+        ],
+        "id": 494
+    },
+    "glob,os,pathlib,shutil": {
+        "problems_id": [
+            "BigCodeBench/962"
+        ],
+        "id": 495
+    },
+    "glob,os,pathlib,zipfile": {
+        "problems_id": [
+            "BigCodeBench/963"
+        ],
+        "id": 496
+    },
+    "docx,os,pandas,pathlib": {
+        "problems_id": [
+            "BigCodeBench/964"
+        ],
+        "id": 497
+    },
+    "datetime,os,pathlib": {
+        "problems_id": [
+            "BigCodeBench/971",
+            "BigCodeBench/1106"
+        ],
+        "id": 498
+    },
+    "os,pathlib": {
+        "problems_id": [
+            "BigCodeBench/972"
+        ],
+        "id": 499
+    },
+    "pathlib,shutil": {
+        "problems_id": [
+            "BigCodeBench/974"
+        ],
+        "id": 500
+    },
+    "json,math,os,pandas": {
+        "problems_id": [
+            "BigCodeBench/985"
+        ],
+        "id": 501
+    },
+    "json,matplotlib,numpy,pandas,seaborn": {
+        "problems_id": [
+            "BigCodeBench/986"
+        ],
+        "id": 502
+    },
+    "json,matplotlib,pandas,sklearn": {
+        "problems_id": [
+            "BigCodeBench/987"
+        ],
+        "id": 503
+    },
+    "os,pathlib,re": {
+        "problems_id": [
+            "BigCodeBench/988"
+        ],
+        "id": 504
+    },
+    "base64,binascii,codecs,urllib": {
+        "problems_id": [
+            "BigCodeBench/990"
+        ],
+        "id": 505
+    },
+    "binascii,random,string": {
+        "problems_id": [
+            "BigCodeBench/991"
+        ],
+        "id": 506
+    },
+    "sqlite3,sys": {
+        "problems_id": [
+            "BigCodeBench/992"
+        ],
+        "id": 507
+    },
+    "matplotlib,re,scipy": {
+        "problems_id": [
+            "BigCodeBench/993"
+        ],
+        "id": 508
+    },
+    "bs4,json,requests": {
+        "problems_id": [
+            "BigCodeBench/996"
+        ],
+        "id": 509
+    },
+    "os,urllib,zipfile": {
+        "problems_id": [
+            "BigCodeBench/997",
+            "BigCodeBench/1005"
+        ],
+        "id": 510
+    },
+    "hashlib,os,tarfile,urllib": {
+        "problems_id": [
+            "BigCodeBench/998"
+        ],
+        "id": 511
+    },
+    "collections,csv,os,urllib": {
+        "problems_id": [
+            "BigCodeBench/999"
+        ],
+        "id": 512
+    },
+    "json,os,pandas,urllib": {
+        "problems_id": [
+            "BigCodeBench/1000"
+        ],
+        "id": 513
+    },
+    "lxml,pandas,urllib": {
+        "problems_id": [
+            "BigCodeBench/1003"
+        ],
+        "id": 514
+    },
+    "collections,matplotlib,re,urllib": {
+        "problems_id": [
+            "BigCodeBench/1004"
+        ],
+        "id": 515
+    },
+    "pandas,requests": {
+        "problems_id": [
+            "BigCodeBench/1007",
+            "BigCodeBench/1014"
+        ],
+        "id": 516
+    },
+    "bs4,io,pandas,requests": {
+        "problems_id": [
+            "BigCodeBench/1008"
+        ],
+        "id": 517
+    },
+    "csv,xml": {
+        "problems_id": [
+            "BigCodeBench/1009"
+        ],
+        "id": 518
+    },
+    "PIL,io,requests": {
+        "problems_id": [
+            "BigCodeBench/1010"
+        ],
+        "id": 519
+    },
+    "pathlib,requests,zipfile": {
+        "problems_id": [
+            "BigCodeBench/1012"
+        ],
+        "id": 520
+    },
+    "bs4,csv,requests,urllib": {
+        "problems_id": [
+            "BigCodeBench/1013"
+        ],
+        "id": 521
+    },
+    "lxml,pandas,requests,sqlite3": {
+        "problems_id": [
+            "BigCodeBench/1015"
+        ],
+        "id": 522
+    },
+    "PIL,matplotlib,numpy,requests": {
+        "problems_id": [
+            "BigCodeBench/1016"
+        ],
+        "id": 523
+    },
+    "PIL,codecs,pytesseract": {
+        "problems_id": [
+            "BigCodeBench/1019"
+        ],
+        "id": 524
+    },
+    "chardet,json,requests": {
+        "problems_id": [
+            "BigCodeBench/1020"
+        ],
+        "id": 525
+    },
+    "binascii,hashlib": {
+        "problems_id": [
+            "BigCodeBench/1021",
+            "BigCodeBench/1131"
+        ],
+        "id": 526
+    },
+    "binascii,urllib": {
+        "problems_id": [
+            "BigCodeBench/1027"
+        ],
+        "id": 527
+    },
+    "json,platform,subprocess,time": {
+        "problems_id": [
+            "BigCodeBench/1028"
+        ],
+        "id": 528
+    },
+    "itertools,pandas,string": {
+        "problems_id": [
+            "BigCodeBench/1030",
+            "BigCodeBench/1033"
+        ],
+        "id": 529
+    },
+    "matplotlib,pandas,random,seaborn,string": {
+        "problems_id": [
+            "BigCodeBench/1032"
+        ],
+        "id": 530
+    },
+    "hashlib,os,ssl": {
+        "problems_id": [
+            "BigCodeBench/1039"
+        ],
+        "id": 531
+    },
+    "datetime,queue,select,socket": {
+        "problems_id": [
+            "BigCodeBench/1040"
+        ],
+        "id": 532
+    },
+    "email,getpass,smtplib": {
+        "problems_id": [
+            "BigCodeBench/1042"
+        ],
+        "id": 533
+    },
+    "datetime,dateutil,numpy": {
+        "problems_id": [
+            "BigCodeBench/1045"
+        ],
+        "id": 534
+    },
+    "datetime,itertools,pandas": {
+        "problems_id": [
+            "BigCodeBench/1046"
+        ],
+        "id": 535
+    },
+    "hashlib,os": {
+        "problems_id": [
+            "BigCodeBench/1050"
+        ],
+        "id": 536
+    },
+    "csv,matplotlib,numpy,scipy": {
+        "problems_id": [
+            "BigCodeBench/1054"
+        ],
+        "id": 537
+    },
+    "itertools,matplotlib,seaborn": {
+        "problems_id": [
+            "BigCodeBench/1058"
+        ],
+        "id": 538
+    },
+    "itertools,numpy,pandas,random": {
+        "problems_id": [
+            "BigCodeBench/1059"
+        ],
+        "id": 539
+    },
+    "logging,requests": {
+        "problems_id": [
+            "BigCodeBench/1067"
+        ],
+        "id": 540
+    },
+    "pandas,sqlite3,warnings": {
+        "problems_id": [
+            "BigCodeBench/1068"
+        ],
+        "id": 541
+    },
+    "itertools,matplotlib,numpy,random": {
+        "problems_id": [
+            "BigCodeBench/1071"
+        ],
+        "id": 542
+    },
+    "matplotlib,time": {
+        "problems_id": [
+            "BigCodeBench/1073"
+        ],
+        "id": 543
+    },
+    "datetime,pandas,pytz": {
+        "problems_id": [
+            "BigCodeBench/1076"
+        ],
+        "id": 544
+    },
+    "datetime,numpy,pytz": {
+        "problems_id": [
+            "BigCodeBench/1077"
+        ],
+        "id": 545
+    },
+    "collections,matplotlib,re": {
+        "problems_id": [
+            "BigCodeBench/1085"
+        ],
+        "id": 546
+    },
+    "numpy,pandas,random,string": {
+        "problems_id": [
+            "BigCodeBench/1086"
+        ],
+        "id": 547
+    },
+    "ast,collections,json": {
+        "problems_id": [
+            "BigCodeBench/1090"
+        ],
+        "id": 548
+    },
+    "ast,glob,os": {
+        "problems_id": [
+            "BigCodeBench/1091"
+        ],
+        "id": 549
+    },
+    "ast,bs4,requests": {
+        "problems_id": [
+            "BigCodeBench/1092"
+        ],
+        "id": 550
+    },
+    "ast,re": {
+        "problems_id": [
+            "BigCodeBench/1093"
+        ],
+        "id": 551
+    },
+    "nltk,os,string": {
+        "problems_id": [
+            "BigCodeBench/1095"
+        ],
+        "id": 552
+    },
+    "csv,nltk,os,string": {
+        "problems_id": [
+            "BigCodeBench/1096"
+        ],
+        "id": 553
+    },
+    "glob,os,subprocess,time": {
+        "problems_id": [
+            "BigCodeBench/1101",
+            "BigCodeBench/1105"
+        ],
+        "id": 554
+    },
+    "datetime,shlex,subprocess": {
+        "problems_id": [
+            "BigCodeBench/1102"
+        ],
+        "id": 555
+    },
+    "os,shutil,subprocess": {
+        "problems_id": [
+            "BigCodeBench/1103"
+        ],
+        "id": 556
+    },
+    "os,subprocess,threading": {
+        "problems_id": [
+            "BigCodeBench/1104"
+        ],
+        "id": 557
+    },
+    "datetime,pytz": {
+        "problems_id": [
+            "BigCodeBench/1107"
+        ],
+        "id": 558
+    },
+    "nltk,os": {
+        "problems_id": [
+            "BigCodeBench/1109"
+        ],
+        "id": 559
+    },
+    "collections,csv": {
+        "problems_id": [
+            "BigCodeBench/1113"
+        ],
+        "id": 560
+    },
+    "csv,io,json,requests": {
+        "problems_id": [
+            "BigCodeBench/1118"
+        ],
+        "id": 561
+    },
+    "codecs,hashlib,random,string": {
+        "problems_id": [
+            "BigCodeBench/1119"
+        ],
+        "id": 562
+    },
+    "json,re,requests,urllib": {
+        "problems_id": [
+            "BigCodeBench/1120",
+            "BigCodeBench/1121"
+        ],
+        "id": 563
+    },
+    "re,socket,urllib": {
+        "problems_id": [
+            "BigCodeBench/1122"
+        ],
+        "id": 564
+    },
+    "re,socket,ssl,urllib": {
+        "problems_id": [
+            "BigCodeBench/1123"
+        ],
+        "id": 565
+    },
+    "bs4,re,requests,urllib": {
+        "problems_id": [
+            "BigCodeBench/1124"
+        ],
+        "id": 566
+    },
+    "hashlib,re": {
+        "problems_id": [
+            "BigCodeBench/1126"
+        ],
+        "id": 567
+    },
+    "hashlib,os,re": {
+        "problems_id": [
+            "BigCodeBench/1127"
+        ],
+        "id": 568
+    },
+    "base64,hashlib,json,os,time": {
+        "problems_id": [
+            "BigCodeBench/1128"
+        ],
+        "id": 569
+    },
+    "datetime,json,os,requests": {
+        "problems_id": [
+            "BigCodeBench/1129"
+        ],
+        "id": 570
+    },
+    "hashlib,json,os,pathlib": {
+        "problems_id": [
+            "BigCodeBench/1130"
+        ],
+        "id": 571
+    },
+    "json,requests": {
+        "problems_id": [
+            "BigCodeBench/1133"
+        ],
+        "id": 572
+    },
+    "glob,hashlib,os": {
+        "problems_id": [
+            "BigCodeBench/1134"
+        ],
+        "id": 573
+    },
+    "collections,json,requests": {
+        "problems_id": [
+            "BigCodeBench/1135"
+        ],
+        "id": 574
+    },
+    "bs4,csv,re,requests": {
+        "problems_id": [
+            "BigCodeBench/1136"
+        ],
+        "id": 575
+    },
+    "bs4,json,re,requests": {
+        "problems_id": [
+            "BigCodeBench/1137"
+        ],
+        "id": 576
+    }
+}

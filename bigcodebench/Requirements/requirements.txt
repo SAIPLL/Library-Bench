@@ -1,0 +1,11 @@
+appdirs>=1.4.4
+fire>=0.6.0
+multipledispatch>=0.6.0
+tree-sitter==0.21.3
+wget>=3.2
+tqdm
+termcolor
+tempdir
+pqdm
+multipledispatch
+tree_sitter_languages
